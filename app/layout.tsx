@@ -1,6 +1,7 @@
-import Footer from './api/components/Footer';
-import Navbar from './api/components/Navbar';
+
+import Navbar from '../components/Navbar';
 import './globals.css';
+import Footer from '../components/Footer';
 
 export const metadata = {
   title: 'CodeCollaB',
