@@ -30,7 +30,7 @@ export const uploadImage = async (imagePath: string) => {
         path: imagePath,
       }),
     });
-    return response.json();
+    return response.json(); //contains the published url of a img on cloudinary server
   } catch (err) {
     throw err;
   }
