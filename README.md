@@ -4,18 +4,15 @@
 This project is a community based platform for Developers, to share there projects
  
 ## About
+This is a user friendly project that would explore a diverse array of projects spanning various technologies and industries. From sleek web applications to efficient backend solutions, all will be available for sharing and find collaborators for your next project, or contribute your skills to ongoing initiatives. 
 
-
+Happy coding! 🚀
 
 ### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Tailwind CSS][Tailwind.css][Tailwind-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+* Next.Js
+* Node.Js
+* Tailwind Css
+* GraghQL
   
 
 ### Prerequisites
@@ -27,16 +24,17 @@ This section should list any major frameworks/libraries used to bootstrap your p
   
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a free API Key at [Google Cloud](https://console.cloud.google.com/welcome/new)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/nikhill03/CodeCollaB.git
    ```
 3. Install NPM packages
    ```sh
    npm install
+   ```
+   ```sh
+   npm install @grafbase/sdk --save-dev
    ```
 4. Enter your API in `config.js`
    ```js
@@ -59,9 +57,9 @@ If you have a suggestion that would make this better, please fork the repo and c
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch (`git checkout -b feature/newFeature`)
+3. Commit your Changes (`git commit -m 'Add some newFeature'`)
+4. Push to the Branch (`git push origin feature/newFeature`)
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -71,16 +69,6 @@ Don't forget to give the project a star! Thanks again!
 
 Nikhil Kumar - nikhilldev03@gmailexample.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/nikhill03/CodeCollaB/tree/main](https://github.com/nikhill03/CodeCollaB/tree/main)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Tailwind.css]: https://img.shields.io/badge/Tailwind%20CSS-2.2-blue?style=flat&logo=tailwind-css&logoColor=white
-[Tailwind-url]: https://tailwindcss.com/
