@@ -6,7 +6,6 @@ This project is a community based platform for Developers, to share there projec
 ## About
 This is a user friendly project that would explore a diverse array of projects spanning various technologies and industries. From sleek web applications to efficient backend solutions, all will be available for sharing and find collaborators for your next project, or contribute your skills to ongoing initiatives. 
 
-Happy coding! 🚀
 
 ### Built With
 * Next.Js
@@ -35,6 +34,9 @@ Happy coding! 🚀
    ```
    ```sh
    npm install @grafbase/sdk --save-dev
+   ```
+   ```sh
+   npm install @headlessui/react cloudinary jsonwebtoken@types/jsonwebtoken graphql -request next-auth
    ```
 4. Enter your API in `config.js`
    ```js
